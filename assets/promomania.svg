@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="190" viewBox="0 0 580 190" role="img" aria-label="Promomanía - Gestión colaborativa de promociones">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101c32"/><stop offset="1" stop-color="#1d2940"/></linearGradient><linearGradient id="a" x1="0" x2="1"><stop stop-color="#fbbf24"/><stop offset="1" stop-color="#fb7185"/></linearGradient></defs>
+<rect width="580" height="190" rx="18" fill="url(#bg)"/>
+<rect x="0" y="0" width="7" height="190" rx="3" fill="url(#a)"/>
+<circle cx="478" cy="107" r="86" fill="#fbbf24" opacity=".10"/><circle cx="478" cy="107" r="63" fill="#fb7185" opacity=".11"/>
+<text x="29" y="37" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#fbbf24">DESARROLLO WEB</text>
+<text x="29" y="87" font-family="Arial,sans-serif" font-size="35" font-weight="800" fill="#f8fafc">Promomanía</text>
+<text x="29" y="117" font-family="Arial,sans-serif" font-size="16" fill="#cbd5e1">Gestión colaborativa de promociones</text>
+<rect x="29" y="140" width="330" height="30" rx="15" fill="#273c53"/>
+<text x="43" y="160" font-family="Arial,sans-serif" font-size="14" fill="#d8f2f0">Flask · JavaScript · MySQL</text>
+<path d="M416 78h126l-10 83H426zM431 78V60h95v18M434 113h92M465 113v40m30-40v40" fill="none" stroke="#fff" stroke-width="5" stroke-linejoin="round"/><path d="M409 78l14-29h113l14 29" fill="none" stroke="#fff" stroke-width="5"/>
+</svg>
