@@ -130,36 +130,96 @@ Aplicación web para consulta y administración de promociones, productos y usua
 </tr>
 </table>
 
-### 🏫 Proyecto institucional · SIHUL
+## 🏛️ Proyecto institucional destacado
 
-**Gestión de espacios académicos:** participación en el desarrollo de una solución para planeación, consulta y administración de espacios de la Universidad Libre.
+<img src="./assets/sihul.svg" width="100%" alt="SIHUL: proyecto institucional de gestión de espacios académicos, Universidad Libre." />
 
-`React` `TypeScript` `Tailwind CSS` `Django REST` `Docker`
+### SIHUL · Gestión de espacios académicos
 
-> Parte del trabajo institucional y colaborativo no está alojada públicamente en esta cuenta.
+Participación en el desarrollo de una solución institucional para **planear, consultar y administrar espacios académicos** de la Universidad Libre.
 
-## 🎓 Trayectoria y formación
-
-| 📌 | Experiencia y formación |
-| :-- | :-- |
-| 💼 | **9 meses de experiencia** en desarrollo y mantenimiento de software para la Universidad Libre. |
-| 🎓 | **Ingeniería de Sistemas** — Universidad Libre, Barranquilla · **8.º semestre (en curso)**. |
-| ✅ | **Tecnólogo en Análisis y Desarrollo de Software** — SENA · **finalizado**. |
-| 🔬 | Participación en **semillero de investigación**. |
-| 🏆 | Participación en **hackatón de desarrollo** en la universidad. |
-| 🎤 | **Ponencia en RedCOLSI** con una propuesta de investigación. |
-| 📚 | Formación complementaria en análisis de datos y fundamentos de Python. |
-
-## 📈 Actividad en GitHub
+<table>
+<tr>
+<td width="33%" align="center"><strong>📅 Planeación</strong><br/><sub>Organización de espacios y horarios académicos.</sub></td>
+<td width="33%" align="center"><strong>🔎 Consulta</strong><br/><sub>Información sobre ocupación y disponibilidad.</sub></td>
+<td width="33%" align="center"><strong>🛠️ Gestión</strong><br/><sub>Soporte a la administración de los espacios.</sub></td>
+</tr>
+</table>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devHarlemHM&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" height="165" alt="Estadísticas públicas de GitHub de devHarlemHM" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devHarlemHM&layout=compact&hide_border=true&theme=github_dark&langs_count=7" height="165" alt="Lenguajes más frecuentes en repositorios públicos" />
+![React](https://img.shields.io/badge/React-0B253C?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B253C?logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B253C?logo=tailwindcss&logoColor=06B6D4)
+![Django REST](https://img.shields.io/badge/Django_REST-0B253C?logo=django&logoColor=44B78B)
+![Docker](https://img.shields.io/badge/Docker-0B253C?logo=docker&logoColor=2496ED)
 
-<sub>Las estadísticas dependen de servicios externos, analizan datos públicos y no representan por sí solas el nivel profesional.</sub>
+<sub>Proyecto institucional y colaborativo · El código no está publicado en esta cuenta.</sub>
 
 </div>
+
+## 🎓 Experiencia y formación
+
+<div align="center">
+
+<img src="./assets/trayectoria.svg" width="100%" alt="Trayectoria: 9 meses de experiencia en desarrollo en la Universidad Libre; Ingeniería de Sistemas en octavo semestre; Tecnólogo en Análisis y Desarrollo de Software del SENA finalizado." />
+
+</div>
+
+<details>
+<summary><strong>Ver información académica y profesional</strong></summary>
+<br/>
+
+- **Experiencia:** 9 meses en desarrollo y mantenimiento de software para la Universidad Libre.
+- **Ingeniería de Sistemas:** Universidad Libre, Barranquilla — **8.º semestre (en curso)**.
+- **Tecnólogo en Análisis y Desarrollo de Software:** SENA — **finalizado**.
+- **Formación complementaria:** análisis de datos y fundamentos de Python.
+
+</details>
+
+## 🔬 Investigación, innovación y comunidad
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
+<h3>🔬 Semillero</h3>
+Participación en actividades de investigación y desarrollo tecnológico.
+</td>
+<td width="33%" valign="top" align="center">
+<h3>🏆 Hackatón</h3>
+Participación en una hackatón universitaria de desarrollo de software.
+</td>
+<td width="33%" valign="top" align="center">
+<h3>🎤 RedCOLSI</h3>
+Ponencia académica con una propuesta de investigación.
+</td>
+</tr>
+</table>
+
+## 📊 Mi actividad en GitHub
+
+<table>
+<tr>
+<td width="52%" valign="middle" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devHarlemHM&layout=compact&hide_border=true&theme=github_dark&langs_count=6" width="100%" alt="Distribución de lenguajes de los repositorios públicos de devHarlemHM" />
+
+</td>
+<td width="48%" valign="middle">
+
+### Explora mi trabajo
+
+El mejor reflejo de mi experiencia está en el **código, la documentación y los proyectos**.
+
+- 📂 [Ver repositorios públicos](https://github.com/devHarlemHM?tab=repositories)
+- 🌱 [Ver contribuciones y actividad](https://github.com/devHarlemHM)
+- 🧩 [Explorar mis proyectos destacados](#-proyectos-destacados)
+
+<sub>La distribución de lenguajes se calcula a partir del código público y no mide habilidades ni experiencia.</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
