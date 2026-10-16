@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="168" viewBox="0 0 1120 168" role="img" aria-label="Resumen de trayectoria: 9 meses de experiencia, Ingeniería de Sistemas octavo semestre, Tecnólogo ADS SENA finalizado">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1830"/><stop offset="1" stop-color="#1b2d49"/></linearGradient><linearGradient id="li" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5eead4"/><stop offset=".6" stop-color="#60a5fa"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<rect width="1120" height="168" rx="16" fill="url(#bg)"/>
+<rect x="8" y="8" width="353" height="152" rx="14" fill="#173047"/><rect x="383" y="8" width="353" height="152" rx="14" fill="#173047"/><rect x="758" y="8" width="354" height="152" rx="14" fill="#173047"/>
+<rect x="27" y="28" width="37" height="4" rx="2" fill="#5eead4"/><rect x="402" y="28" width="37" height="4" rx="2" fill="#60a5fa"/><rect x="777" y="28" width="37" height="4" rx="2" fill="#a78bfa"/>
+<text x="27" y="73" font-family="Arial,DejaVu Sans,sans-serif" font-size="31" font-weight="800" fill="#f8fafc">9 meses</text>
+<text x="27" y="101" font-family="Arial,DejaVu Sans,sans-serif" font-size="18" font-weight="700" fill="#8ff3de">Experiencia profesional</text>
+<text x="27" y="128" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" fill="#cbd5e1">Desarrollo · Universidad Libre</text>
+<text x="402" y="73" font-family="Arial,DejaVu Sans,sans-serif" font-size="31" font-weight="800" fill="#f8fafc">8.º semestre</text>
+<text x="402" y="101" font-family="Arial,DejaVu Sans,sans-serif" font-size="18" font-weight="700" fill="#93c5fd">Ingeniería de Sistemas</text>
+<text x="402" y="128" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" fill="#cbd5e1">Universidad Libre · En curso</text>
+<text x="777" y="73" font-family="Arial,DejaVu Sans,sans-serif" font-size="31" font-weight="800" fill="#f8fafc">Finalizado</text>
+<text x="777" y="101" font-family="Arial,DejaVu Sans,sans-serif" font-size="18" font-weight="700" fill="#c4b5fd">Tecnología ADS</text>
+<text x="777" y="128" font-family="Arial,DejaVu Sans,sans-serif" font-size="15" fill="#cbd5e1">SENA · Análisis y Desarrollo</text>
+</svg>
