@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-labelledby="t d">
+<title id="t">Harlem Josué Hernández Marún — Portafolio tecnológico</title>
+<desc id="d">Ingeniería de Sistemas, octavo semestre. Tecnólogo en Análisis y Desarrollo de Software.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071527"/><stop offset=".55" stop-color="#112546"/><stop offset="1" stop-color="#142043"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#2dd4bf"/><stop offset="1" stop-color="#60a5fa"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#2dd4bf" stop-opacity=".17"/><stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#88b7dd" stroke-width=".45" opacity=".16"/></pattern>
+  <filter id="shadow"><feDropShadow dx="0" dy="9" stdDeviation="15" flood-opacity=".24"/></filter>
+  <clipPath id="round"><rect width="1280" height="390" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+ <rect width="1280" height="390" fill="url(#bg)"/>
+ <rect width="1280" height="390" fill="url(#grid)"/>
+ <circle cx="1032" cy="280" r="340" fill="url(#glow)"/>
+ <circle cx="1235" cy="44" r="180" fill="none" stroke="#60a5fa" opacity=".14" stroke-width="1.5"/>
+ <circle cx="1104" cy="380" r="230" fill="none" stroke="#2dd4bf" opacity=".14" stroke-width="1"/>
+ <path d="M0 377 H1280" stroke="url(#line)" stroke-width="6"/>
+ <rect x="64" y="42" width="304" height="33" rx="16.5" fill="#1e3d55" stroke="#4f8fb0" stroke-opacity=".45"/>
+ <circle cx="86" cy="58" r="5" fill="#2dd4bf"/>
+ <text x="102" y="64" font-family="Arial,DejaVu Sans,sans-serif" font-size="13" font-weight="700" letter-spacing="1.7" fill="#aee9e8">PORTAFOLIO DE SOFTWARE</text>
+ <text x="64" y="143" font-family="Arial,DejaVu Sans,sans-serif" font-size="55" font-weight="800" fill="#f8fafc">Harlem Josué</text>
+ <text x="64" y="208" font-family="Arial,DejaVu Sans,sans-serif" font-size="55" font-weight="800" fill="#f8fafc">Hernández Marún</text>
+ <rect x="64" y="228" width="420" height="4" rx="2" fill="url(#line)"/>
+ <text x="64" y="268" font-family="Arial,DejaVu Sans,sans-serif" font-size="22" font-weight="700" fill="#94f4df">Ingeniería de Sistemas</text>
+ <text x="64" y="301" font-family="Arial,DejaVu Sans,sans-serif" font-size="19" fill="#dbeafe">8.º semestre · Universidad Libre</text>
+ <text x="64" y="339" font-family="Arial,DejaVu Sans,sans-serif" font-size="17" fill="#a7b8d3">Tecnólogo en Análisis y Desarrollo de Software</text>
+ <g filter="url(#shadow)">
+   <rect x="815" y="74" width="409" height="253" rx="16" fill="#0b1628" stroke="#4c7399" stroke-opacity=".65"/>
+   <path d="M815 90Q815 74 831 74H1208Q1224 74 1224 90V117H815Z" fill="#192e46"/>
+   <circle cx="843" cy="95" r="6" fill="#fb7185"/><circle cx="865" cy="95" r="6" fill="#fbbf24"/><circle cx="887" cy="95" r="6" fill="#34d399"/>
+   <text x="1009" y="101" text-anchor="middle" font-family="Consolas,monospace" font-size="13" fill="#95aec9">portfolio.ts</text>
+   <text x="843" y="151" font-family="Consolas,monospace" font-size="18" fill="#67e8f9">const <tspan fill="#f8fafc">developer</tspan> = {</text>
+   <text x="861" y="183" font-family="Consolas,monospace" font-size="17" fill="#e5e7eb">focus: <tspan fill="#86efac">'solutions'</tspan>,</text>
+   <text x="861" y="215" font-family="Consolas,monospace" font-size="17" fill="#e5e7eb">stack: <tspan fill="#86efac">'web + mobile'</tspan>,</text>
+   <text x="861" y="247" font-family="Consolas,monospace" font-size="17" fill="#e5e7eb">mindset: <tspan fill="#86efac">'keep learning'</tspan></text>
+   <text x="843" y="279" font-family="Consolas,monospace" font-size="18" fill="#67e8f9">};</text>
+   <rect x="841" y="296" width="355" height="1" fill="#38536e"/>
+ </g>
+</g>
+</svg>
